@@ -1,6 +1,6 @@
 # Telegram-group-stegano
  
-Telegram groups are not encrypted, to add an extra layer of security I created this script!
+Telegram groups are not encrypted, to add an extra layer of security I created this app!
 
 If you could contribute to help me create an android version with kivy or other that would be great :)
 
