@@ -6,3 +6,10 @@ If you could contribute to help me create an android version with kivy or other 
 
 
 https://user-images.githubusercontent.com/85953451/147551387-33cf4d83-da8b-4db8-bdff-572cf8a1a1d6.mp4
+
+
+How to work:
+
+in C:/  create a telesec folder
+add TelSec.py and secplus.ico in this folder
+and run!
